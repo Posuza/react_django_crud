@@ -43,7 +43,9 @@ This application provides a user-friendly interface for managing products. Users
   - RESTful API running on port 8000
 
 ## Getting Started
-
+### Project Setup
+  - delete frontend,src,back
+  - only extract the projectZip file 
 ### Prerequisites
 
 - Node.js (v14 or higher)
